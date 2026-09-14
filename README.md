@@ -65,6 +65,6 @@ Enfocado en desarrollo web moderno, diseño de APIs y soluciones escalables.
 ---
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=AgusRe&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de AgusRe" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=AgusRe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de AgusRe" width="48%" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AgusRe&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="48%" />
 </p>
